@@ -8,9 +8,6 @@ function Recipe({recipe}) {
             <div className="text-container">
             <h1>{recipe.label}</h1>
             <p>{Math.floor(recipe.calories)} cal per portion</p>
-            <ul>{recipe.ingredients.map(ingredient =>(
-                <li key={uuidv4()}>{ingredient.text}</li>
-            ))}</ul>
             </div>
             <div className="image-container">
             <img src={recipe.image} alt="" />
