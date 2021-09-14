@@ -71,6 +71,7 @@ function App() {
           <input ref={inputValueRef} type="text" name="search-bar" id="search-bar" onKeyDown={submitOnEnter} onFocus={() => setFocus(true)} />
           <button type='submit' onClick={handleClick}>Search</button>
           </div>
+          <h2>Results shown for <span>'{query}'</span></h2>
           <div className="Recipes">
       {recipes.map(recipe => (
         < Recipe recipe={recipe.recipe} key={uuidv4()} />
