@@ -6,5 +6,4 @@ Technologies used:
 - CSS
 - React
 
-[![Screenshot-2022-01-23-at-17-53-43-React-App.png](https://i.postimg.cc/7Yz7h3SJ/Screenshot-2022-01-23-at-17-53-43-React-App.png)](https://postimg.cc/ZCT0Dy7J)
-[![Screenshot-2022-01-23-at-17-54-11-React-App.png](https://i.postimg.cc/3xHGvkZS/Screenshot-2022-01-23-at-17-54-11-React-App.png)](https://postimg.cc/WhXtRbCg)
+![Screenshot 2022-03-11 at 21-44-50 React App](https://user-images.githubusercontent.com/71221268/157960536-c2645e02-9083-42e6-8345-5f3e6d5420f3.png)
